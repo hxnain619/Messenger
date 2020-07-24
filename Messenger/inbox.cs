@@ -52,12 +52,12 @@ namespace Messenger
                     int n = responseObject.Status;
                     if (n == 3)
                     {
-                        MessageBox.Show("Something went wrong with your credentials", "My Demo App");
+                        MessageBox.Show("Something went wrong with your credentials", "Messenger App");
 
                     }
                     else
                     {
-                        MessageBox.Show("Message Send Successfully", "My Demo App");
+                        MessageBox.Show("Message Send Successfully", "Messenger App");
                     }
 
                 }
@@ -66,7 +66,7 @@ namespace Messenger
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Something went wrong with your information", "My Demo App");
+                MessageBox.Show("Something went wrong with your information", "Messenger App");
                 ex.ToString();
             }
         }
