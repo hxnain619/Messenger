@@ -1,0 +1,13 @@
+C:\Users\Perfect\Desktop\Messenger\Messenger\bin\Debug\Messenger.exe.config
+C:\Users\Perfect\Desktop\Messenger\Messenger\bin\Debug\Messenger.exe
+C:\Users\Perfect\Desktop\Messenger\Messenger\bin\Debug\Messenger.pdb
+C:\Users\Perfect\Desktop\Messenger\Messenger\obj\Debug\Messenger.csprojAssemblyReference.cache
+C:\Users\Perfect\Desktop\Messenger\Messenger\obj\Debug\Messenger.Form1.resources
+C:\Users\Perfect\Desktop\Messenger\Messenger\obj\Debug\Messenger.Properties.Resources.resources
+C:\Users\Perfect\Desktop\Messenger\Messenger\obj\Debug\Messenger.csproj.GenerateResource.cache
+C:\Users\Perfect\Desktop\Messenger\Messenger\obj\Debug\Messenger.csproj.CoreCompileInputs.cache
+C:\Users\Perfect\Desktop\Messenger\Messenger\obj\Debug\Messenger.exe
+C:\Users\Perfect\Desktop\Messenger\Messenger\obj\Debug\Messenger.pdb
+C:\Users\Perfect\Desktop\Messenger\Messenger\obj\Debug\Messenger.inbox.resources
+C:\Users\Perfect\Desktop\Messenger\Messenger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Perfect\Desktop\Messenger\Messenger\obj\Debug\Messenger.csproj.CopyComplete
