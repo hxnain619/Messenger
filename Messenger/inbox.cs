@@ -36,8 +36,8 @@ namespace Messenger
         {
             string Phone = textBox1.Text;
             string messages = richTextBox1.Text;
-            string API_KEY = "k7tawggw9i5wdb5";
-            string SECRET_KEY = "qkfjups6vfnub8d";
+            string API_KEY = "YOUR_API_KEY";
+            string SECRET_KEY = "YOUR_SECRET_KEY";
             string API_URL = "https://www.thetexting.com/rest/sms/json/message/send?api_key=" + API_KEY + "&api_secret=" + SECRET_KEY + "&to=" + Phone + "&text=" + messages;
 
             try
